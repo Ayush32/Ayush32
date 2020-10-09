@@ -54,7 +54,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
 
 
-<img align="left" alt="Ayush32 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ayush32&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
 
 [website]: https://ayush32.github.io/-Portfolio/
 [twitter]: https://twitter.com/
