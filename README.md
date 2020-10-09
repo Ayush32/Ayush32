@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=git&logoColor=F05032)
+![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 
 
 
