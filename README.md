@@ -3,9 +3,6 @@
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
-
-
-
 ## I'm a Student and Full Stack Web  Developer,!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -63,7 +60,9 @@
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
+<br/>
 
+---
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
