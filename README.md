@@ -36,6 +36,8 @@
 ![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 
 ![AWS](http://img.shields.io/badge/?style=flat-square&logo=appveyor)
+![VS Code](http://img.shields.io/badge/-VS%20code-333333?style=flat&logo=vs-code)
+
 
 ![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
