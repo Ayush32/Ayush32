@@ -33,7 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
-![Vs-Code](http://img.shields.io/badge/-Vs-code-333333?style=flat&logo=vscode)
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
