@@ -30,6 +30,20 @@
 
 ---
 
+### 🗜 Some of the technologies I have worked with
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+
+
+
+![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell&logoColor=FFFFFF)
+
+
+
 
 <img align="left" alt="Ayush32 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ayush32&show_icons=true&hide_border=true" />
 
