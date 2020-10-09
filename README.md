@@ -53,6 +53,17 @@
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
 
+<br/>
+
+### ⏳ I’m currently working on ...
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
 
