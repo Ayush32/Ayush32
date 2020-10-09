@@ -33,7 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
-![Vs Code](http://img.shields.io/badge/-Vs code-333333?style=flat&logo=vscode)
+![Vs-Code](http://img.shields.io/badge/-Vs-code-333333?style=flat&logo=vscode)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
@@ -45,7 +45,4 @@
 [instagram]: https://www.instagram.com/ayushgupta_._/
 [linkedin]: https://www.linkedin.com/in/ayush-gupta-68562b167/
 [stackoverflow]: https://stackoverflow.com/users/13707144/ayush-gupta
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
