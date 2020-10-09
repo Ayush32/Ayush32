@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush Gupta[website] 👋
+### Hi there, I'm Ayush Gupta [website] 👋
 
 ## I'm a Student and Full Stack Web  Developer,!
 
@@ -7,6 +7,8 @@
 - 👯 I’m looking for job opportunities in Web Development 💻
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play games / eating food 🍟
+
+---
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/AyushGu60343848?style=social)](https://twitter.com/AyushGu60343848)
 [![Linkedin: imthepk](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-gupta-68562b167/)](https://www.linkedin.com/in/ayush-gupta-68562b167/)
@@ -20,7 +22,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
-<br />
+---
 
 ### 💻 Languages I have used
 
