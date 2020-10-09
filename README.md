@@ -56,7 +56,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush32&repo=VelocityX&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush32&theme=onedark" />
 
 [website]: https://ayush32.github.io/-Portfolio/
 [twitter]: https://twitter.com/
