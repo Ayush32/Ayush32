@@ -38,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=reactjs&logoColor=339933)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuejs)
 
 
