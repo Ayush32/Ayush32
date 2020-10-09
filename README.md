@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play games / eating food 🍟
 
----
-
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/AyushGu60343848?style=social)](https://twitter.com/AyushGu60343848)
 [![Linkedin: imthepk](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-gupta-68562b167/)](https://www.linkedin.com/in/ayush-gupta-68562b167/)
 [![GitHub iampawan](https://img.shields.io/github/followers/Ayush32?style=social)](https://github.com/Ayush32)
@@ -21,6 +19,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
+<br/>
 
 ---
 
@@ -47,11 +47,6 @@
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
-
-
-
-
-
 
 
 <img align="left" alt="Ayush32 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ayush32&show_icons=true&hide_border=true" />
