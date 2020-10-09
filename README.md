@@ -54,7 +54,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=gruvbox&line_height=27" alt="AnkitDroidGit github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush32&theme=onedark" />
 
