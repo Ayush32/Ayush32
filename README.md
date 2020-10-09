@@ -35,6 +35,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 
+![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+
+
 
 
 ![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
