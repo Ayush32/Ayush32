@@ -50,6 +50,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
 <br/>
 
+---
+
 ### ⏳ I’m currently working on ...
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
