@@ -61,9 +61,9 @@
 <br/>
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=dark&line_height=27" alt="AnkitDroidGit github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="AnkitDroidGit github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush32&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush32&layout=compact&theme=vision-friendly-dark" />
 
 [website]: https://ayush32.github.io/-Portfolio/
 [twitter]: https://twitter.com/
