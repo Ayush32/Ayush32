@@ -64,7 +64,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush32&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="AnkitDroidGit github stats" />
 
 ## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/Ayush32/github-readme-streak-stats)
+# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush32&theme=dark)](https://github.com/Ayush32/github-readme-streak-stats)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush32&layout=compact&theme=vision-friendly-dark" />
