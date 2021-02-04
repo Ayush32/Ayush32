@@ -67,7 +67,7 @@
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush32&theme=chartreuse-dark)](https://github.com/Ayush32/github-readme-streak-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush32&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush32&layout=compact&theme=chartreuse-dark" />
 
 [website]: https://ayush32.github.io/-Portfolio/
 [twitter]: https://twitter.com/
