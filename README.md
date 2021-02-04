@@ -21,9 +21,10 @@
 [<img align="left" alt="codeSTACKr | Twitter" width ="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-<br/>
+[<img align="left" alt="codeSTACKr | facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 
+<br/>
+<img src=/>
 ---
 ### 💻 Languages I have used
 
@@ -74,5 +75,5 @@
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/ayushgupta_._/
 [linkedin]: https://www.linkedin.com/in/ayush-gupta-68562b167/
-[stackoverflow]: https://stackoverflow.com/users/13707144/ayush-gupta
+[facebook]: https://www.facebook.com/sunny.gupyya/
 
